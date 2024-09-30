@@ -1,8 +1,8 @@
-Réalisé fin 2023, début 2024
+2023 - 2024
 
-Pour faire fonctionner le plugin avec la base de donnée (requise)
+To make it work with the database (this is required)
 
-Créer le fichier /src/main/java/lettoh/dev/database/Database.java
+Create file /src/main/java/lettoh/dev/database/Database.java
 
 package lettoh.dev.database;
 
